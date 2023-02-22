@@ -10,7 +10,7 @@ while True:
     rw.fill_walk()
 
     # Plot the points in the walk.
-    plt.style.use('Solarize_Light2')
+    plt.style.use('dark_background')
 
     # Altering the Size to Fill the Screen
     # Tuple takes dimensions in inches
